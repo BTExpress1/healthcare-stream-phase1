@@ -2,7 +2,7 @@
 
 ### 1) Clone & enter
 
-git clone <YOUR_REPO_URL>.git
+git clone https://github.com/BTExpress1/healthcare-stream-phase1.git
 cd <repo-folder>
 
 ### 2) Create a virtual env & install

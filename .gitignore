@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+
+# data & artifacts
+/data/**
+!/data/raw/samples/
+/artifacts/**
+
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/

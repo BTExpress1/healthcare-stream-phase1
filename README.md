@@ -3,7 +3,7 @@
 ### 1) Clone & enter
 
 git clone https://github.com/BTExpress1/healthcare-stream-phase1.git
-cd <repo-folder>
+cd  healthcare-stream-phase1
 
 ### 2) Create a virtual env & install
 #### Windows (PowerShell)
